@@ -13,4 +13,6 @@ f(d→f)or miss<br>
 f(e→f)or miss<br>
 
 -feature/ featureD<br>
+make branch(remote)<br>
+and use at local
 
