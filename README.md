@@ -3,4 +3,4 @@
 -featureA
 
 -feature/ fix-B
-can u save to "master"?"
+Can u resolve conflict?
